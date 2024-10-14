@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family: fantasy;
+    text-underline-position: below;
+}
+p{
+    color: aqua;
+}
+li{
+    color: red;
+}
+table, th, td{
+    border: solid black;
+    size: 1px;
+}
